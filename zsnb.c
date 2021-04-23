@@ -3,5 +3,6 @@
 int main()
 {
 	printf("zsnb"/n);
+	printf("zsnbnbnb");
 	return;
 }
